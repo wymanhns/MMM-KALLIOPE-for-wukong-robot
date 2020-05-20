@@ -7,7 +7,7 @@ class Message {
     }
 }
 
-Module.register('MMM-kalliope',{
+Module.register('mmmkk',{
     // list of messages to print on the screen
     messages: [],
 

@@ -15,7 +15,7 @@ Module.register('mmmkk',{
 	defaults: {
         max: 5,
         keep_seconds: 5,
-        title: "Kalliope"
+        title: "Voice"
     },
 
     getStyles: function() {

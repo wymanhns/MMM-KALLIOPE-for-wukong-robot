@@ -30,7 +30,7 @@ Configure your `~/MagicMirror/config/config.js`:
 
 ```js
 {
-    module: "MMM-kalliope",
+    module: "mmmkk",
     position: "upper_third",
     config: {
         title: "Voice"

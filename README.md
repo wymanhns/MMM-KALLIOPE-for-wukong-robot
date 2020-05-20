@@ -24,7 +24,7 @@ This module allow you to:
 
 ## Installation
 
-Clone this repo into `~/MagicMirror/modules` directory.
+Clone this repo into `~/MagicMirror/modules` directory and rename MMM-kalliope.
 
 Configure your `~/MagicMirror/config/config.js`:
 
